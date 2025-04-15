@@ -1,0 +1,7 @@
+# backend/.gitignore
+node_modules
+.env
+*.log
+
+# Firebase service account key (if you store it here)
+serviceAccountKey.json
